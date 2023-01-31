@@ -1,0 +1,22 @@
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+img{
+    border-radius: 16px;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: brown;
+}
+.card{
+    background-color: beige;
+    width: 300px;
+    height: 250px;
+    margin: 120px auto;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+}
